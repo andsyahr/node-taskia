@@ -1,0 +1,20 @@
+{
+    "rewrites": [
+        {
+            "source": "/signin",
+            "destination": "/signin.html"
+        },
+        {
+            "source": "/add-task",
+            "destination": "/add-task.html"
+        },
+        {
+            "source": "/add-user",
+            "destination": "/add-user.html"
+        },
+        {
+            "source": "/tasks",
+            "destination": "/tasks.html"
+        }
+    ]
+}
